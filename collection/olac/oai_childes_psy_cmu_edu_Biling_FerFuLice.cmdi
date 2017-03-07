@@ -12,7 +12,7 @@
    <Header>
       <MdCreator>olac2cmdi.xsl</MdCreator>
       <MdCreationDate>2010-10-06</MdCreationDate>
-      <MdSelfLink>oai:childes.psy.cmu.edu:Biling-FerFuLice</MdSelfLink>
+      <MdSelfLink>https://infra.clarin.eu/cmd/example/collection/olac/oai_childes_psy_cmu_edu_Biling_FerFuLice.cmdi</MdSelfLink>
       <MdProfile>clarin.eu:cr1:p_1288172614026</MdProfile>
       <MdCollectionDisplayName>CHILDES Data repository</MdCollectionDisplayName>
    </Header>
