@@ -3,7 +3,7 @@
     <Header>
         <MdCreator>lrt2cmdi.py</MdCreator>
         <MdCreationDate>2011-11-10</MdCreationDate>
-        <MdSelfLink>http://www.clarin.eu/node/1001</MdSelfLink>
+        <MdSelfLink>https://infra.clarin.eu/cmd/example/collection/lrt/lrt-1001.cmdi</MdSelfLink>
         <MdProfile>clarin.eu:cr1:p_1289827960126</MdProfile>
 	<MdCollectionDisplayName>CLARIN LRT inventory</MdCollectionDisplayName>
     </Header>

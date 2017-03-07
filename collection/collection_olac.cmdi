@@ -5,26 +5,26 @@
     <Header>
         <MdCreator>dir2cmdicollection.py</MdCreator>
         <MdCreationDate>2011-11-10</MdCreationDate>
-        <MdSelfLink>http://catalog.clarin.eu/oai-harvester/CHILDES_Data_repository.html</MdSelfLink>
+        <MdSelfLink>https://infra.clarin.eu/cmd/example/collection/collection_olac.cmdi</MdSelfLink>
         <MdProfile>clarin.eu:cr1:p_1284723009187</MdProfile>
     </Header>
     <Resources>
         <ResourceProxyList>
             <ResourceProxy id="olac1">
                 <ResourceType>Metadata</ResourceType>
-                <ResourceRef>olac/oai_childes_psy_cmu_edu_Biling_DeHouwer.cmdi</ResourceRef>
+                <ResourceRef>https://infra.clarin.eu/cmd/example/collection/olac/oai_childes_psy_cmu_edu_Biling_DeHouwer.cmdi</ResourceRef>
             </ResourceProxy>
             <ResourceProxy id="olac2">
                 <ResourceType>Metadata</ResourceType>
-                <ResourceRef>olac/oai_childes_psy_cmu_edu_Biling_Deuchar.cmdi</ResourceRef>
+                <ResourceRef>https://infra.clarin.eu/cmd/example/collection/olac/oai_childes_psy_cmu_edu_Biling_Deuchar.cmdi</ResourceRef>
             </ResourceProxy>
             <ResourceProxy id="olac3">
                 <ResourceType>Metadata</ResourceType>
-                <ResourceRef>olac/oai_childes_psy_cmu_edu_Biling_FerFuLice.cmdi</ResourceRef>
+                <ResourceRef>https://infra.clarin.eu/cmd/example/collection/olac/oai_childes_psy_cmu_edu_Biling_FerFuLice.cmdi</ResourceRef>
             </ResourceProxy>
             <ResourceProxy id="olac4">
                 <ResourceType>Metadata</ResourceType>
-                <ResourceRef>olac/oai_childes_psy_cmu_edu_Biling_Genesee.cmdi</ResourceRef>
+                <ResourceRef>https://infra.clarin.eu/cmd/example/collection/olac/oai_childes_psy_cmu_edu_Biling_Genesee.cmdi</ResourceRef>
             </ResourceProxy>
           </ResourceProxyList>
         <JournalFileProxyList/>
